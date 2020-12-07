@@ -17,7 +17,7 @@ This tool requires the modules given in requirements.txt, please run `pip3 insta
 
 `python3 pokemon.py move-type normal`
 
-4) Use of optional flag for filtering by generation. *Note: the generation flag and argument must come before the action (lookup, move-type).
+4) Use of optional flag for filtering by version-group ('red-blue', not 'red'). *Note: the generation flag and argument must come before the action (lookup, move-type).
 
 `python3 pokemon.py --generation yellow lookup pikachu`
 
